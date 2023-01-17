@@ -1,4 +1,4 @@
-### Olá, me chamo Guilherme, mas pode me chamar de Gavassa! 💜
+### Olá, me chamo Guilherme Gavassa, mas pode me chamar de Gavassa! 💜
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gavassa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
