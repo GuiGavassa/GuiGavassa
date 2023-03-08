@@ -1,10 +1,15 @@
-### Olá, me chamo Guilherme Gavassa, mas pode me chamar de Gavassa! 💜
+
 
 <div align="center">
+  
+  ### Olá, me chamo Guilherme Gavassa, mas pode me chamar de Gavassa! 💜
+
+  </br>
+  
   <a href="https://github.com/GuiGavassa">
-  <img width="48%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiGavassa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiGavassa&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+  <img width="47%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiGavassa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiGavassa&layout=compact&langs_count=7&theme=midnight-purple"/>
+
 
   </br>
   
@@ -31,3 +36,5 @@
 
 
   ![Snake animation](https://github.com/GuiGavassa/GuiGavassa/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
