@@ -1,5 +1,13 @@
 ### Olá, me chamo Guilherme Gavassa, mas pode me chamar de Gavassa! 💜
 
+<div align="center">
+  <a href="https://github.com/GuiGavassa">
+  <img width="48%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiGavassa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiGavassa&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
+  </br>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Gavassa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gavassa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -10,13 +18,7 @@
   <img align="center" alt="Gavassa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Gavassa-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
-</br>
 
-<div align="center">
-  <a href="https://github.com/GuiGavassa">
-  <img width="48%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiGavassa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiGavassa&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
   
 ##
   
