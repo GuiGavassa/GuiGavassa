@@ -7,7 +7,7 @@
   </br>
   
   <a href="https://github.com/GuiGavassa">
-  <img width="100%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiGavassa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="60%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=GuiGavassa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   
 
   </br>
