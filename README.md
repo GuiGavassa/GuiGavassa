@@ -22,17 +22,9 @@
   <img align="center" alt="Gavassa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Gavassa-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
-
-  
-##
-  
-<div>
-<a href="https://www.linkedin.com/in/gavassa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<a href="https://www.instagram.com/guilherme.gavassa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<a href="mailto:guilhermegavassa.tecn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
-</div>
   
 
 ![Snake animation](https://github.com/HenriqueSericov/HenriqueSericov/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
   
   </div>
+  
